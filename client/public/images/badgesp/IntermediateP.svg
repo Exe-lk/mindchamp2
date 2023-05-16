@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="174" height="90.5" viewBox="0 0 174 90.5">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke: #707070;
+      }
+
+      .cls-1, .cls-2 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-2, .cls-3 {
+        stroke: #000;
+        stroke-width: 3px;
+      }
+
+      .cls-2 {
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+
+      .cls-3 {
+        fill: #fef200;
+      }
+
+      .cls-4 {
+        stroke: none;
+      }
+
+      .cls-5 {
+        fill: none;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="gray"/>
+    </linearGradient>
+  </defs>
+  <g id="IntermediateP" transform="translate(-290 -238.5)">
+    <g id="Rectangle_70" data-name="Rectangle 70" class="cls-1" transform="translate(290 255)">
+      <path class="cls-4" d="M0,0H52.5A7.5,7.5,0,0,1,60,7.5v0A7.5,7.5,0,0,1,52.5,15H7.5A7.5,7.5,0,0,1,0,7.5V0A0,0,0,0,1,0,0Z"/>
+      <path class="cls-5" d="M.5.5h52a7,7,0,0,1,7,7v0a7,7,0,0,1-7,7H7.5a7,7,0,0,1-7-7V.5A0,0,0,0,1,.5.5Z"/>
+    </g>
+    <g id="Rectangle_71" data-name="Rectangle 71" class="cls-1" transform="translate(310 275)">
+      <path class="cls-4" d="M0,0H52.5A7.5,7.5,0,0,1,60,7.5v0A7.5,7.5,0,0,1,52.5,15H7.5A7.5,7.5,0,0,1,0,7.5V0A0,0,0,0,1,0,0Z"/>
+      <path class="cls-5" d="M.5.5h52a7,7,0,0,1,7,7v0a7,7,0,0,1-7,7H7.5a7,7,0,0,1-7-7V.5A0,0,0,0,1,.5.5Z"/>
+    </g>
+    <g id="Rectangle_72" data-name="Rectangle 72" class="cls-1" transform="translate(404 255)">
+      <path class="cls-4" d="M7.5,0H60a0,0,0,0,1,0,0V7.5A7.5,7.5,0,0,1,52.5,15H7.5A7.5,7.5,0,0,1,0,7.5v0A7.5,7.5,0,0,1,7.5,0Z"/>
+      <path class="cls-5" d="M7.5.5h52a0,0,0,0,1,0,0v7a7,7,0,0,1-7,7H7.5a7,7,0,0,1-7-7v0A7,7,0,0,1,7.5.5Z"/>
+    </g>
+    <g id="Rectangle_73" data-name="Rectangle 73" class="cls-1" transform="translate(384 275)">
+      <path class="cls-4" d="M7.5,0H60a0,0,0,0,1,0,0V7.5A7.5,7.5,0,0,1,52.5,15H7.5A7.5,7.5,0,0,1,0,7.5v0A7.5,7.5,0,0,1,7.5,0Z"/>
+      <path class="cls-5" d="M7.5.5h52a0,0,0,0,1,0,0v7a7,7,0,0,1-7,7H7.5a7,7,0,0,1-7-7v0A7,7,0,0,1,7.5.5Z"/>
+    </g>
+    <path id="Icon_feather-shield" data-name="Icon feather-shield" class="cls-2" d="M41,90.5S76,73,76,46.75V16.125L41,3,6,16.125V46.75C6,73,41,90.5,41,90.5Z" transform="translate(336 237)"/>
+    <g id="Group_45" data-name="Group 45" transform="translate(189 33)">
+      <g id="Ellipse_1" data-name="Ellipse 1" class="cls-3" transform="translate(158 217)">
+        <circle class="cls-4" cx="30" cy="30" r="30"/>
+        <circle class="cls-5" cx="30" cy="30" r="28.5"/>
+      </g>
+      <path id="Icon_awesome-paint-brush" data-name="Icon awesome-paint-brush" d="M10.438,19.333a6.325,6.325,0,0,0-6.074,4.519.954.954,0,0,1-.912.624c-.694,0-2.841-1.729-3.453-2.147C0,27.475,2.371,32,8,32c4.741,0,8-2.736,8-7.512a5.415,5.415,0,0,0-.061-.571l-5.5-4.584ZM28.617,0A3.817,3.817,0,0,0,26.1,1.028C13.329,12.44,12,12.708,12,16.067a5.786,5.786,0,0,0,.546,2.419l3.989,3.324a5.751,5.751,0,0,0,1.4.189c3.882,0,6.132-2.842,13.2-16.028A6.431,6.431,0,0,0,32,3.1,3.254,3.254,0,0,0,28.617,0Z" transform="translate(171.601 231)"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="174" height="90.5" viewBox="0 0 174 90.5">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke: #707070;
+      }
+
+      .cls-1, .cls-2 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-2, .cls-3 {
+        stroke: #000;
+        stroke-width: 3px;
+      }
+
+      .cls-2 {
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+
+      .cls-3 {
+        fill: #fef200;
+      }
+
+      .cls-4 {
+        stroke: none;
+      }
+
+      .cls-5 {
+        fill: none;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="gray"/>
+    </linearGradient>
+  </defs>
+  <g id="IntermediateM" transform="translate(-290 -238.5)">
+    <g id="Rectangle_70" data-name="Rectangle 70" class="cls-1" transform="translate(290 255)">
+      <path class="cls-4" d="M0,0H52.5A7.5,7.5,0,0,1,60,7.5v0A7.5,7.5,0,0,1,52.5,15H7.5A7.5,7.5,0,0,1,0,7.5V0A0,0,0,0,1,0,0Z"/>
+      <path class="cls-5" d="M.5.5h52a7,7,0,0,1,7,7v0a7,7,0,0,1-7,7H7.5a7,7,0,0,1-7-7V.5A0,0,0,0,1,.5.5Z"/>
+    </g>
+    <g id="Rectangle_71" data-name="Rectangle 71" class="cls-1" transform="translate(310 275)">
+      <path class="cls-4" d="M0,0H52.5A7.5,7.5,0,0,1,60,7.5v0A7.5,7.5,0,0,1,52.5,15H7.5A7.5,7.5,0,0,1,0,7.5V0A0,0,0,0,1,0,0Z"/>
+      <path class="cls-5" d="M.5.5h52a7,7,0,0,1,7,7v0a7,7,0,0,1-7,7H7.5a7,7,0,0,1-7-7V.5A0,0,0,0,1,.5.5Z"/>
+    </g>
+    <g id="Rectangle_72" data-name="Rectangle 72" class="cls-1" transform="translate(404 255)">
+      <path class="cls-4" d="M7.5,0H60a0,0,0,0,1,0,0V7.5A7.5,7.5,0,0,1,52.5,15H7.5A7.5,7.5,0,0,1,0,7.5v0A7.5,7.5,0,0,1,7.5,0Z"/>
+      <path class="cls-5" d="M7.5.5h52a0,0,0,0,1,0,0v7a7,7,0,0,1-7,7H7.5a7,7,0,0,1-7-7v0A7,7,0,0,1,7.5.5Z"/>
+    </g>
+    <g id="Rectangle_73" data-name="Rectangle 73" class="cls-1" transform="translate(384 275)">
+      <path class="cls-4" d="M7.5,0H60a0,0,0,0,1,0,0V7.5A7.5,7.5,0,0,1,52.5,15H7.5A7.5,7.5,0,0,1,0,7.5v0A7.5,7.5,0,0,1,7.5,0Z"/>
+      <path class="cls-5" d="M7.5.5h52a0,0,0,0,1,0,0v7a7,7,0,0,1-7,7H7.5a7,7,0,0,1-7-7v0A7,7,0,0,1,7.5.5Z"/>
+    </g>
+    <path id="Icon_feather-shield" data-name="Icon feather-shield" class="cls-2" d="M41,90.5S76,73,76,46.75V16.125L41,3,6,16.125V46.75C6,73,41,90.5,41,90.5Z" transform="translate(336 237)"/>
+    <g id="Group_45" data-name="Group 45" transform="translate(189 33)">
+      <g id="Ellipse_1" data-name="Ellipse 1" class="cls-3" transform="translate(158 217)">
+        <circle class="cls-4" cx="30" cy="30" r="30"/>
+        <circle class="cls-5" cx="30" cy="30" r="28.5"/>
+      </g>
+      <path id="Icon_awesome-music" data-name="Icon awesome-music" d="M36,2.251A2.248,2.248,0,0,0,33.074.105L10.575,6.75A2.249,2.249,0,0,0,9,8.895V27.276A9.727,9.727,0,0,0,6.75,27C3.022,27,0,29.014,0,31.5S3.022,36,6.75,36s6.75-2.014,6.75-4.5V15.069l18-5.275V22.776a9.727,9.727,0,0,0-2.25-.276c-3.728,0-6.75,2.014-6.75,4.5s3.022,4.5,6.75,4.5S36,29.486,36,27V2.251Z" transform="translate(170 229)"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns="http://www.w3.org/2000/svg"
+    xmlns:cc="http://web.resource.org/cc/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:svg="http://www.w3.org/2000/svg"
+    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+    xmlns:ns1="http://sozi.baierouge.fr"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    id="svg2"
+    viewBox="0 0 720 720"
+    version="1.1"
+  >
+  <path
+      id="path2983"
+      style="stroke:#ff0000;stroke-width:2;display:none;fill:none"
+      d="m329.69 144.95s-9.3692-18.562-37.653-6.364"
+  />
+  <g
+      id="g3069"
+      transform="matrix(4.2514 0 0 4.2514 -753.96 -536.14)"
+    >
+    <path
+        id="path3045"
+        style="fill:#ff0000"
+        d="m262.02 140.18c-13.449 7.7812-22.531 22.314-22.531 38.969s9.0826 31.156 22.531 38.938c2.6211-12.275 10.297-23.199 21.5-29.656 0.6297-2.9979 0.96875-6.0945 0.96875-9.2812 0-16.645-9.033-31.184-22.469-38.969z"
+    />
+    <path
+        id="path3061"
+        style="fill:#ffff00"
+        d="m336.12 194.01c-11.556-10.386-28.184-14.533-44.024-9.3865-15.84 5.1467-26.825 18.266-30.069 33.461 12.484-1.3005 25.246 2.6241 34.849 11.283 3.0457-0.32752 6.0956-0.96196 9.1264-1.9467 15.831-5.1437 26.867-18.227 30.118-33.411z"
+    />
+    <path
+        id="path3063"
+        style="fill:#00ff00"
+        d="m307.82 281.11c6.3065-14.2 5.1124-31.296-4.6771-44.77s-25.661-19.867-41.115-18.258c5.0947 11.472 5.3057 24.821 0.037641 36.63 1.2527 2.7955 2.7985 5.5 4.6716 8.0781 9.7838 13.466 25.637 19.919 41.083 18.32z"
+    />
+    <path
+        id="path3065"
+        style="fill:#0000ff"
+        d="m216.23 281.11c15.454 1.6098 31.344-4.8087 41.133-18.283 9.7895-13.474 10.965-30.545 4.6587-44.745-9.3357 8.3903-21.967 12.716-34.825 11.355-2.2716 2.0552-4.366 4.3611-6.2391 6.9393-9.7838 13.466-11.022 30.538-4.7277 44.733z"
+    />
+    <path
+        id="path3067"
+        style="fill:#ff00ff"
+        d="m187.93 194.01c3.2445 15.195 14.259 28.324 30.099 33.47 15.84 5.1467 32.438 0.98974 43.994-9.3961-10.865-6.2861-18.882-16.962-21.561-29.612-2.6566-1.5253-5.4968-2.8046-8.5276-3.7894-15.831-5.1437-32.449-1.0455-44.005 9.327z"
+    />
+  </g
+  >
+  <metadata
+    >
+    <rdf:RDF
+      >
+      <cc:Work
+        >
+        <dc:format
+          >image/svg+xml</dc:format
+        >
+        <dc:type
+            rdf:resource="http://purl.org/dc/dcmitype/StillImage"
+        />
+        <cc:license
+            rdf:resource="http://creativecommons.org/licenses/publicdomain/"
+        />
+        <dc:publisher
+          >
+          <cc:Agent
+              rdf:about="http://openclipart.org/"
+            >
+            <dc:title
+              >Openclipart</dc:title
+            >
+          </cc:Agent
+          >
+        </dc:publisher
+        >
+        <dc:title
+          >football 5 petal flower</dc:title
+        >
+        <dc:date
+          >2011-07-10T19:49:56</dc:date
+        >
+        <dc:description
+          >football 5 petal flower</dc:description
+        >
+        <dc:source
+          >https://openclipart.org/detail/148885/football-5-petal-flower-by-10binary</dc:source
+        >
+        <dc:creator
+          >
+          <cc:Agent
+            >
+            <dc:title
+              >10binary</dc:title
+            >
+          </cc:Agent
+          >
+        </dc:creator
+        >
+        <dc:subject
+          >
+          <rdf:Bag
+            >
+            <rdf:li
+              >5</rdf:li
+            >
+            <rdf:li
+              >flower</rdf:li
+            >
+            <rdf:li
+              >football</rdf:li
+            >
+            <rdf:li
+              >petal</rdf:li
+            >
+          </rdf:Bag
+          >
+        </dc:subject
+        >
+      </cc:Work
+      >
+      <cc:License
+          rdf:about="http://creativecommons.org/licenses/publicdomain/"
+        >
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#Reproduction"
+        />
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#Distribution"
+        />
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#DerivativeWorks"
+        />
+      </cc:License
+      >
+    </rdf:RDF
+    >
+  </metadata
+  >
+</svg
+>

@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 660 658.22705"
+   version="1.1"
+   id="svg35"
+   sodipodi:docname="FlowerHeartsSpectrum.svg"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   width="660"
+   height="658.22705">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1824"
+     inkscape:window-height="1046"
+     id="namedview37"
+     showgrid="false"
+     inkscape:zoom="1.1348668"
+     inkscape:cx="330"
+     inkscape:cy="318.21581"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg35"
+     showborder="false" />
+  <title
+     id="title2">Six Heart Flower</title>
+  <desc
+     id="desc4">Six Heart Flower
+    From the book, I Love to Color, Play, &amp; Learn, by Jay Nick.
+    I Love to Color, Play, &amp; Learn is as an eBook from cattocreations.com
+    Written by Jay Nick
+    Handcoding SVG since 2001
+    Author of eBook, Learn SVG Interactively, published by Catto Creations, LLC
+    http://www.jaynick.com
+    I Love to Color, Play, &amp; Learn is published by Catto Creations, LLC
+    Catto Creations mission is Family, Literacy, and Enrichment
+    Visit http://www.cattocreations.com for award winning children's eBooks
+    I Love to Color, Play, &amp; Learn and other free ePub3 eBooks at http://www.cattocreations.com/ePub3.html</desc>
+  <defs
+     id="defs8">
+    <style
+       type="text/css"
+       id="style6">#flower path {stroke:black;stroke-width:2px;}
+      #starpetals {fill:yellow;stroke:none;}
+      #center {fill:darkred;stroke:black;stroke-width:2px;}
+      #heart1 {fill:red;}
+      #heart2 {fill:green;}
+      #heart3 {fill:blue;}
+      #heart4 {fill:red;}
+      #heart5 {fill:green;}
+      #heart6 {fill:blue;}</style>
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       id="rainbow"
+       x1="0"
+       y1="0"
+       x2="100"
+       y2="0"
+       gradientTransform="translate(702.51122,127.43118)">
+      <stop
+         offset="0"
+         stop-color="red"
+         id="stop2" />
+      <stop
+         offset="0.333333"
+         stop-color="yellow"
+         id="stop4" />
+      <stop
+         offset="0.5"
+         stop-color="#00ff00"
+         id="stop6" />
+      <stop
+         offset="0.666666"
+         stop-color="cyan"
+         id="stop8" />
+      <stop
+         offset="0.833333"
+         stop-color="blue"
+         id="stop10" />
+      <stop
+         offset="1"
+         stop-color="magenta"
+         id="stop12" />
+    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#rainbow"
+       id="radialGradient899"
+       cx="122.61851"
+       cy="458.6185"
+       fx="122.61851"
+       fy="458.6185"
+       r="75"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-1.3868832,-8.5978479)" />
+  </defs>
+  <circle
+     id="starpetals"
+     cy="450.02066"
+     cx="121.23162"
+     r="228"
+     style="fill:#ffffff;stroke:none"
+     transform="rotate(-30)" />
+  <circle
+     id="center"
+     cy="450.02066"
+     cx="121.23162"
+     r="74"
+     style="fill:url(#radialGradient899);fill-opacity:1;stroke:#000000;stroke-width:2px"
+     transform="rotate(-30)" />
+  <g
+     id="heart1"
+     transform="rotate(-30,249.18296,-309.23163)"
+     style="fill:#ff00ff">
+    <path
+       d="M 0,0 C 30,-60 110,-60 130,0 160,100 20,150 0,210 M 0,0 C -30,-60 -110,-60 -130,0 -160,100 -20,150 0,210"
+       id="path12"
+       inkscape:connector-curvature="0"
+       style="fill:#ff00ff;stroke:#000000;stroke-width:2px" />
+  </g>
+  <g
+     id="heart2"
+     transform="rotate(30,80.817043,922.34513)"
+     style="fill:#ff0000">
+    <path
+       d="M 0,0 C 30,-60 110,-60 130,0 160,100 20,150 0,210 M 0,0 C -30,-60 -110,-60 -130,0 -160,100 -20,150 0,210"
+       id="path15"
+       inkscape:connector-curvature="0"
+       style="fill:#ff0000;stroke:#000000;stroke-width:2px" />
+  </g>
+  <g
+     id="heart3"
+     transform="rotate(90,142.44325,471.55675)"
+     style="fill:#ffff00">
+    <path
+       d="M 0,0 C 30,-60 110,-60 130,0 160,100 20,150 0,210 M 0,0 C -30,-60 -110,-60 -130,0 -160,100 -20,150 0,210"
+       id="path18"
+       inkscape:connector-curvature="0"
+       style="fill:#ffff00;stroke:#000000;stroke-width:2px" />
+  </g>
+  <g
+     id="heart4"
+     transform="rotate(150,158.95594,350.76837)"
+     style="fill:#00ff00">
+    <path
+       d="M 0,0 C 30,-60 110,-60 130,0 160,100 20,150 0,210 M 0,0 C -30,-60 -110,-60 -130,0 -160,100 -20,150 0,210"
+       id="path21"
+       inkscape:connector-curvature="0"
+       style="fill:#00ff00;stroke:#000000;stroke-width:2px" />
+  </g>
+  <g
+     id="heart5"
+     transform="rotate(-150,171.04406,262.34513)"
+     style="fill:#00ffff">
+    <path
+       d="M 0,0 C 30,-60 110,-60 130,0 160,100 20,150 0,210 M 0,0 C -30,-60 -110,-60 -130,0 -160,100 -20,150 0,210"
+       id="path24"
+       inkscape:connector-curvature="0"
+       style="fill:#00ffff;stroke:#000000;stroke-width:2px" />
+  </g>
+  <g
+     id="heart6"
+     transform="rotate(-90,187.55675,141.55675)"
+     style="fill:#0000ff">
+    <path
+       d="M 0,0 C 30,-60 110,-60 130,0 160,100 20,150 0,210 M 0,0 C -30,-60 -110,-60 -130,0 -160,100 -20,150 0,210"
+       id="path27"
+       inkscape:connector-curvature="0"
+       style="fill:#0000ff;stroke:#000000;stroke-width:2px" />
+  </g>
+  <metadata
+     id="metadata33">
+    <rdf:RDF>
+      <cc:Work>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <cc:license
+           rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/" />
+        <dc:publisher>
+          <cc:Agent
+             rdf:about="http://openclipart.org/">
+            <dc:title>Openclipart</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:title>Six Heart Flower</dc:title>
+        <dc:date>2013-11-21T13:41:30</dc:date>
+        <dc:description>From the eBook, I Love to Color, Play, and Learn. SVG code can be inserted into an SVG image then scaled and positioned where desired.\n</dc:description>
+        <dc:source>https://openclipart.org/detail/188968/six-heart-flower-by-jaynick-188968</dc:source>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>JayNick</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>flower</rdf:li>
+            <rdf:li>handcoded</rdf:li>
+            <rdf:li>heart</rdf:li>
+            <rdf:li>hearts</rdf:li>
+            <rdf:li>icon</rdf:li>
+            <rdf:li>love</rdf:li>
+            <rdf:li>plant</rdf:li>
+            <rdf:li>valentine</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/publicdomain/zero/1.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+</svg>

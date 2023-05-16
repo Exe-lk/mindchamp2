@@ -1,0 +1,126 @@
+.color_box_col{
+    display: flex !important;
+    flex-flow: nowrap row !important;
+}
+.selected_color{
+    width: 50px;
+    height: 50px;
+    margin-top: 85px !important;
+    border-radius: 50%;
+    margin-right: 5px;
+    border-color: #707070;
+    border-width: 0.5px;
+    border-style: solid;
+}
+.color_box{
+    
+    display: flex;
+    flex-flow: nowrap column;
+    margin: 2px !important;
+    margin-top: 72px !important;
+    border-radius: 30px;
+    padding: 5px;
+}
+.color_box{
+    background-color: white;
+    width: 360px;
+    height: 80px;
+    border-radius: 30px;
+}
+.color_box_wrapper_row{
+    display: flex;
+    flex-flow: nowrap row;
+}
+.color_cube{
+    width: 30px;
+    height: 30px;
+    margin: 2.5px;
+    border-radius: 50%;
+    border-color: #707070;
+    border-style: solid;
+    border-width: 0.5px;
+    
+}
+/* Color cube */
+.color_cube_black{
+    background-color: black;
+}
+.color_cube_gray{
+    background-color: gray;
+}
+
+.color_cube_darkred{
+    background-color: #880015;
+}
+
+.color_cube_yellow{
+    background-color: yellow;
+}
+
+.color_cube_green{
+    background-color: green;
+}
+
+.color_cube_blue{
+    background-color: blue;
+}
+
+.color_cube_orange{
+    background-color: #FF7F27;
+}
+
+.color_cube_brown{
+    background-color: #784315;
+}
+
+.color_cube_purple{
+    background-color: purple;
+}
+
+.color_cube_pink{
+    background-color: #EA3FF7;
+}
+
+.color_cube_white{
+    background-color: white;
+}
+
+.color_cube_light_gray{
+    background-color: #C3C3C3;
+}
+
+.color_cube_light_red{
+    background-color: red;
+}
+
+.color_cube_light_yello{
+    background-color: #EFE4B0;
+}
+
+.color_cube_light_green{
+    background-color: #B5E61D;
+}
+
+.color_cube_light_blue{
+    background-color: #00A2E8;
+}
+
+.color_cube_light_gold{
+    background-color: #FFC90E;
+}
+
+.color_cube_light_brown{
+    background-color: #F09B59;
+}
+
+.color_cube_light_purple{
+    background-color: #EE8AF8;
+}
+
+.color_cube_light_pink{
+    background-color: #FF91CB;
+}
+
+.selected_color_cube{
+    background-color: white;
+}
